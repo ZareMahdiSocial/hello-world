@@ -1,2 +1,4 @@
 # hello-world
-that's my first repository
+this's my first repository.
+
+I like python.
